@@ -145,7 +145,7 @@ After pushing, you can go to the GitHub repository page to create a pull request
 ## Summary of Commands:
 ```markdown
 bash
-git clone https://github.com/Springboard-Internship-2024/Video-to-Reels_oct_2024.git
+git clone https://github.com/Video-to-Reels_oct_2024.git
 cd Video-to-Reels_oct_2024
 git checkout -b your-branch-name
 # Make changes or add files
