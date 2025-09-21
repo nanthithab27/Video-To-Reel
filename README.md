@@ -96,7 +96,7 @@ Open your terminal or command prompt and run the following command to clone the 
 ```markdown
 bash
 Copy code
-git clone https://github.com/Springboard-Internship-2024/Video-to-Reels_oct_2024.git
+git clone https://github.com/Video-to-Reels_oct_2024.git
 ```
 
 Step 2: Navigate to the Directory
@@ -210,6 +210,3 @@ Below are examples of the application's user interface:
 <img width="956" alt="backend" src="https://github.com/user-attachments/assets/0fa96064-5a20-4f3b-9778-495f513a71bc">
 
 
-## License:
-
-This project is licensed under the Infosys License. You can freely modify and use it, provided you adhere to the terms of the license.
